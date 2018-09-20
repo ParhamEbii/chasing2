@@ -1,0 +1,8 @@
+prefix=/home/parhamebi/Desktop/chasing2/install
+
+Name: propack
+Description: Description of propack
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parhamebi/Desktop/chasing2/install/lib 
+Requires: 

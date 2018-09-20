@@ -1,0 +1,2 @@
+propack
+-DCATKIN_DEVEL_PREFIX=/home/parhamebi/Desktop/chasing2/devel -DCMAKE_INSTALL_PREFIX=/home/parhamebi/Desktop/chasing2/install -G Unix Makefiles
